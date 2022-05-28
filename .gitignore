@@ -1,0 +1,7 @@
+# package manager
+node_modules
+package-lock.json
+yarn-lock.json
+
+# env files
+.env
